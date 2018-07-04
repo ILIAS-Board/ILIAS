@@ -5,7 +5,7 @@
 
 | Task | Activity | Resource | D | E | I |
 | --- | --- | --- | --- | --- | --- |
-| Suggest A New Feature | Create a wiki page for the feature you want to suggest!<br/><br/>Please follow the instructions on the page How to suggest a new feature |  | ILIAS Community Member | ILIAS Community Member |
+| Suggest A New Feature | Create a wiki page for the feature you want to suggest!<br/><br/>Please follow the instructions on the page How to suggest a new feature | [How To Suggest A New Feature](https://www.ilias.de/docu/goto_docu_wiki_wpage_788_1357.html)  | ILIAS Community Member | ILIAS Community Member |
 | Ask the Jour Fixe for a scheduled discussion |
 
 ##### Task
