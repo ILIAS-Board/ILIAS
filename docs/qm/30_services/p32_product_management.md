@@ -5,7 +5,7 @@
 
 | Task | Activity | Resource | Mandatory / Optional	| Decision | Execution | Possible Contribution | Information |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Suggest A New Feature | Create a wiki page for the feature you want to suggest! Please follow the instructions on the page How to suggest a new feature | Feature Wiki https://www.ilias.de/docu/goto_docu_wiki_wpage_4576_1357.html How to suggest a new feature https://www.ilias.de/docu/goto_docu_wiki_wpage_788_1357.html | Mandatory | ILIAS Community Member | ILIAS Community Member | ILIAS Community Member Component Maintainer |
+| Suggest A New Feature | Create a wiki page for the feature you want to suggest! Please follow the instructions on the page How to suggest a new feature |  | Mandatory | ILIAS Community Member | ILIAS Community Member | ILIAS Community Member Component Maintainer |
 | Ask the Jour Fixe for a scheduled discussion |
 
 #### Feature Workshop
