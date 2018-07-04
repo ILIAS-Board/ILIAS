@@ -3,9 +3,9 @@
 ### Release Planing
 #### Suggest A New Feature
 
-| Task | Activity | Resource | Mandatory / Optional	| Decision<br/>Execution<br/>Possible Contribution<br/>Information |
-| --- | --- | --- | --- | --- |
-| Suggest A New Feature | Create a wiki page for the feature you want to suggest!<br/><br/>Please follow the instructions on the page How to suggest a new feature |  | Mandatory | D:<br/>ILIAS Community Member<br/>E:<br/>ILIAS Community Member<br/>C:<br/>ILIAS Community Member<br/>Component Maintainer |
+| Task | Activity | Resource | D | E | I |
+| --- | --- | --- | --- | --- | --- |
+| Suggest A New Feature | Create a wiki page for the feature you want to suggest!<br/><br/>Please follow the instructions on the page How to suggest a new feature |  | ILIAS Community Member | ILIAS Community Member |
 | Ask the Jour Fixe for a scheduled discussion |
 
 ##### Task
