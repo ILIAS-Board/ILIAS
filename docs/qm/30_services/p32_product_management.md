@@ -11,10 +11,10 @@
 ##### Task
 Suggest A New Feature
 ##### Activity
-- Create a wiki page for the feature you want to suggest!
+- Create a wiki page for the feature you want to suggest!  [How To Suggest A New Feature]
 - Please follow the instructions on the page How to suggest a new feature
 ##### Resource
-- 
+- [How To Suggest A New Feature]: https://www.ilias.de/docu/goto_docu_wiki_wpage_788_1357.html
 ##### Mandatory / Optional
 Mandatory
 ##### Decision
