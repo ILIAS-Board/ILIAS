@@ -41,6 +41,7 @@
 | Task | Activity | Resource | D | E | I |
 | --- | --- | --- | --- | --- | --- |
 | ... |   |  |  |   |  |
+
 ###Publishing
 #### Publish Major Release
 | Task | Activity | Resource | D | E | I |
