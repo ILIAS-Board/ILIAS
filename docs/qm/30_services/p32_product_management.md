@@ -8,6 +8,24 @@
 | Suggest A New Feature | Create a wiki page for the feature you want to suggest!<br/><br/>Please follow the instructions on the page How to suggest a new feature |  | Mandatory | D:<br/>ILIAS Community Member<br/>E:<br/>ILIAS Community Member<br/>C:<br/>ILIAS Community Member<br/>Component Maintainer |
 | Ask the Jour Fixe for a scheduled discussion |
 
+##### Task
+Suggest A New Feature
+##### Activity
+- Create a wiki page for the feature you want to suggest!
+- Please follow the instructions on the page How to suggest a new feature
+##### Resource
+- 
+##### Mandatory / Optional
+Mandatory
+##### Decision
+- ILIAS Community Member
+##### Execution
+- ILIAS Community Member
+##### Possible Contribution
+- ILIAS Community Member
+- Component Maintainer
+##### Information
+
 #### Feature Workshop
 - Announce a workshop
 - Register to the Workshop
